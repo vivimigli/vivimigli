@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vivimigli
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning css
+- 💞️ I’m looking to start being a freelancer
